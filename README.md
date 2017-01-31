@@ -34,21 +34,15 @@ My report includes findings for the following categories:
   Data Summary:
   
     -Number of documents
-    
     -Number of nodes
-    
     -Number of ways
-    
     -Top contributing users
   
   Geograpgical Insights:
   
     -Top postcodes tagged
-    
     -Top neighborhoods tagged
-    
     -Top amenities tagged
-    
     -Top cuisines tagged
     
 These findings rely on abundunt and accurate information from users.
